@@ -13,14 +13,19 @@ background-size:cover;
 
 a{
   font-family: "Playfair";
-  font-size: 20px;
+  font-size: 30px;
+  margin-left: 2%;
+  margin-top:5%;
   font-style: italic;
   color: rgb(241, 255, 153);
 }
 .flyer{
   display: block;
   margin:0 auto;
+  -webkit-box-shadow: 0px 0px 21px 10px #000000;
+  box-shadow: 0px 0px 21px 10px #000000;
 }
+
 #aboutBody{
   background: rgb(191,244,244);
 background: linear-gradient(0deg, rgba(191,244,244,1) 3%, rgba(191,244,201,1) 64%, rgba(179,201,255,1) 100%);background-repeat: no-repeat;
